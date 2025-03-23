@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Mar 2025 20:06:06 at https://forum.ebxtalk.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://forum.ebxtalk.org -O1 "C:\My Web Sites\EBX Talk" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:07:19	Error: 	"Not Found" (404) at link https://forum.ebxtalk.org/%page_url% (from https://forum.ebxtalk.org/)
+20:09:19	Error: 	"Not Found" (404) at link https://forum.ebxtalk.org/threads/%page_url% (from https://forum.ebxtalk.org/threads/recent)
+20:09:19	Error: 	"Not Found" (404) at link https://forum.ebxtalk.org/posts/%page_url% (from https://forum.ebxtalk.org/posts/recent)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 7 seconds : 585 links scanned, 582 files written (14042343 bytes overall), 582 files updated [13264806 bytes received at 43207 bytes/sec], 1871699 bytes transferred using HTTP compression in 13 files, ratio 34%, 22.1 requests per connection
+(3 errors, 0 warnings, 0 messages)

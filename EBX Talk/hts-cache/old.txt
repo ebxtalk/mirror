@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:02:40	0/0	U--MC-	200	updated ('Not%20Acceptable')	text/html	date:Sun,%2023%20Mar%202025%2003:02:32%20GMT	https://forum.ebxtalk.org/	C:/My%20Web%20Sites/EBX%20Talk/forum.ebxtalk.org/index.html	(from )
